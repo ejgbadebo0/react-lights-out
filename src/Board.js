@@ -116,7 +116,6 @@ function Board({ nrows, ncols, chanceLightStartsOn }) {
   );
   }
 }
-
-  // TODO
+// TODO
 
 export default Board;
